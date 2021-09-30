@@ -1,0 +1,11 @@
+{
+  "name": "ProtractorJS",
+  "version": "1.0.0",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "jasmine-allure-reporter": "^1.0.2"
+  }
+}
